@@ -1,3 +1,3 @@
-# 졸업작품 연습
+# Wetube
 
 Cloning Youtube with Vanilla and NodeJS
